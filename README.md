@@ -1,24 +1,3 @@
-<!-----
-NEW: Check the "Suppress top comment" option to remove this info from the output.
-
-Conversion time: 0.456 seconds.
-
-
-Using this Markdown file:
-
-1. Paste this output into your source file.
-2. See the notes and action items below regarding this conversion run.
-3. Check the rendered output (headings, lists, code blocks, tables) for proper
-   formatting and use a linkchecker before you publish this page.
-
-Conversion notes:
-
-* Docs to Markdown version 1.0β29
-* Mon Jun 14 2021 06:19:31 GMT-0700 (PDT)
-* Source doc: Krishna assistent MD
------>
-
-
 # Krishna-assistant
 
 A digital assistant based on Java swing. It takes voice input, performs tasks and gives replays.
@@ -43,7 +22,8 @@ java -jar "Krishna_Assistent.jar"
 
 It will look like this:
 
- ![Assistant Image](/images/logo.png)
+ ![Assistant Image](/Screenshots/a1.png)
+![Assistant Image](/Screenshots/a2.png)
 
  
 
