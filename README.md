@@ -10,13 +10,14 @@ Krishna assistant is a digital assistant (Chatbot) developed in java language. I
 
 This software contains two modes 1. Assistant mode 2. Development mode.
 
- Assistant mode is a main part of this software which accepts user commands and replies. Development mode is made for manipulate database of assistants
+ Assistant mode is a main part of this software which accepts user commands and replies. Development mode is made for manipulate database of assistant.
 
 
 
 #### 1. Assistant Mode:
 
-To run this project without opening an IDE. Just open ** Krishna_Assistent.jar ** in dist folder. Or execute following line in the terminal.
+To run this project without opening an IDE. Just open **Krishna_Assistent.jar** in dist folder. 
+Or execute following line in the terminal.
 
 java -jar "Krishna_Assistent.jar" 
 
@@ -27,7 +28,7 @@ It will look like this:
 
  
 
-Note: You can also give commands by keyboard. Turn off mic and start typing by keyboard and hit enter.  
+Note: You can also give commands by keyboard. Turn off mic and start typing by keyboard then hit enter.  
 
 ##### Common commands to try:
 
